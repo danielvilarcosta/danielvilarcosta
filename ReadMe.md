@@ -1,5 +1,6 @@
 # 💫 About Me:
 Estou fazendo transição de carreira para Desenvolvedor JR Full Stack<br>Sou Formado em Sistemas de Informações pela Unifev Centro Universitário de Votuporanga<br>Atualmente estou realizando o curso do Senai Devinhouse<br>
+<br>Pós Graduado pela Fatec Rio Preto Desenvolvimento Web<br>
 
 
 ## 🌐 Socials:
